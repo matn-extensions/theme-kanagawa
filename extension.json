@@ -1,0 +1,10 @@
+{
+  "id": "matn.theme.kanagawa",
+  "name": "Kanagawa Theme",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Neo-vim dark theme inspired by the famous painting The Great Wave off Kanagawa",
+  "category": "themes",
+  "type": "theme",
+  "repository": "https://github.com/matn-extensions/theme-kanagawa"
+}

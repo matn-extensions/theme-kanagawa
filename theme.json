@@ -1,0 +1,16 @@
+{
+  "name": "Kanagawa",
+  "type": "dark",
+  "author": "Matn Team",
+  "version": "1.0.0",
+  "colors": {
+    "bg": "#1F1F28",
+    "barBg": "#2A2A37",
+    "text": "#DCD7BA",
+    "muted": "#727169",
+    "accent": "#7E9CD8",
+    "activeLine": "#2D2D3C",
+    "cursor": "#E6C388",
+    "border": "#3C3C4B"
+  }
+}
